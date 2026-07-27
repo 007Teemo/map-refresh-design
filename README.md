@@ -1,4 +1,4 @@
-# Adaptive Google map Refresh Prioritization
+# Adaptive Map Refresh Prioritization
 
 *A two-tier, demand-aware system for deciding which parts of a live map get updated, and how often.*
 
